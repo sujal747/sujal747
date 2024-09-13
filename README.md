@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science at grade X**
 
-- 👨‍💻 All of my projects are available at [https://sujal747.github.io/sujal](https://sujal747.github.io/sujal)
+- 👨‍💻 All of my projects are available at [https://www.sujalgautam.info.np/](https://www.sujalgautam.info.np/)
 
 - 💬 Ask me about **Linux, ethical hacking,web developing.**
 
